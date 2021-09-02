@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
 *_isupper - function that checks for uppercase characters
 *@c: int type number
@@ -14,4 +14,3 @@ int _isupper(int c)
 
 	return (0);
 }
-
